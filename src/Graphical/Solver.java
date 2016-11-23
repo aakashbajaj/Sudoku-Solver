@@ -1360,8 +1360,8 @@ public class Solver extends javax.swing.JFrame {
     }
     
     private void clearbtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_clearbtnActionPerformed
-        ClearConf clr = new ClearConf();
-        if(clr.showconf()==true)
+        //ClearConf clr = new ClearConf();
+        //if(clr.showconf()==true)
             clearall();
     }//GEN-LAST:event_clearbtnActionPerformed
 
